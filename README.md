@@ -1,1 +1,1 @@
-# kafka-generator
+# kafka-analyzer
